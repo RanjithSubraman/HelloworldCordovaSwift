@@ -1,0 +1,128 @@
+PODS:
+  - Cordova (4.3.0)
+  - cordova-plugin-camera (2.3.0):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-contacts (2.2.0):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-device (1.1.3):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-device-motion (1.2.2):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-device-orientation (1.0.4):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-file (4.3.0):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-file-transfer (1.6.0):
+    - Cordova (>= 4.3.0)
+    - cordova-plugin-file
+  - cordova-plugin-geolocation (2.4.0):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-globalization (1.0.4):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-inappbrowser (1.5.0):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-media-capture (1.4.0):
+    - Cordova (>= 4.3.0)
+    - cordova-plugin-file
+  - cordova-plugin-network-information (1.3.0):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-splashscreen (4.0.0):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-statusbar (2.2.0):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-vibration (2.1.2):
+    - Cordova (>= 4.3.0)
+  - cordova-plugin-wkwebview-engine (1.1.0):
+    - Cordova (>= 4.3.0)
+  - CordovaPlugin-console (0.2.10):
+    - Cordova (>= 3.0.0)
+  - FirebaseAnalytics (3.7.0):
+    - FirebaseCore (~> 3.5)
+    - FirebaseInstanceID (~> 1.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseCore (3.5.2):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseInstanceID (1.0.9)
+  - Google/Core (3.0.3):
+    - FirebaseAnalytics (~> 3.2)
+  - Google/SignIn (3.0.3):
+    - Google/Core
+    - GoogleSignIn (~> 4.0)
+  - GoogleSignIn (4.0.2):
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GoogleToolboxForMac/NSString+URLArguments (~> 2.1)
+    - GTMOAuth2 (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - GoogleToolboxForMac/Defines (2.1.1)
+  - GoogleToolboxForMac/NSData+zlib (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.1):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.1)
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.1)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.1)
+  - GTMOAuth2 (1.1.4):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.9):
+    - GTMSessionFetcher/Full (= 1.1.9)
+  - GTMSessionFetcher/Core (1.1.9)
+  - GTMSessionFetcher/Full (1.1.9):
+    - GTMSessionFetcher/Core (= 1.1.9)
+  - phonegap-ios-template (0.2.4)
+
+DEPENDENCIES:
+  - Cordova
+  - cordova-plugin-camera
+  - cordova-plugin-contacts
+  - cordova-plugin-device
+  - cordova-plugin-device-motion
+  - cordova-plugin-device-orientation
+  - cordova-plugin-file
+  - cordova-plugin-file-transfer
+  - cordova-plugin-geolocation
+  - cordova-plugin-globalization
+  - cordova-plugin-inappbrowser
+  - cordova-plugin-media-capture
+  - cordova-plugin-network-information
+  - cordova-plugin-splashscreen
+  - cordova-plugin-statusbar
+  - cordova-plugin-vibration
+  - cordova-plugin-wkwebview-engine
+  - CordovaPlugin-console
+  - Google/SignIn
+  - phonegap-ios-template
+
+SPEC CHECKSUMS:
+  Cordova: 9dda9e4a521d8f0af561cba93e59f142ed7b306f
+  cordova-plugin-camera: f14580de3a57553b9e1e133fe2963216b2a444eb
+  cordova-plugin-contacts: 0f5f663a3a0a884247910f745025a2364deaaff4
+  cordova-plugin-device: a8d085e5d9d10712c537e3ef3c8c3e49a35c6a90
+  cordova-plugin-device-motion: 887a56d2ba37f86d0c7eba9c6ceba8f19a6bcc2c
+  cordova-plugin-device-orientation: a245e37b974e926265b21d07c7bdfd64d453b8ef
+  cordova-plugin-file: 4458961f1158dbbc2502f70e8945ea252aa9ed2b
+  cordova-plugin-file-transfer: fd65c80d5b29ad73bf0b2a50761455a6f9049141
+  cordova-plugin-geolocation: dc6dbcfcef654312bbf50b87045ccf1f07efcd28
+  cordova-plugin-globalization: 1ac9a8fa27214550b775bc70b4b919dfd3e66e76
+  cordova-plugin-inappbrowser: 524780743ddeaa363d9f70b5e4700d55efde3dd4
+  cordova-plugin-media-capture: d3fcdb1b0f50ee9f5778fff22d84f6620db98f94
+  cordova-plugin-network-information: 89f1639b86374336ffac71f45e8913d493e9fc9e
+  cordova-plugin-splashscreen: 7e4e02d6353b5a94e3af1563c4ebf0e05765bbf3
+  cordova-plugin-statusbar: 4e7f07a6063ff116e40140dae9963890637da214
+  cordova-plugin-vibration: ba02ccf635f9ac6f394a45aa07cda015c0a1f114
+  cordova-plugin-wkwebview-engine: 38ccefc374b68251e8a0675fec57477dfd18da15
+  CordovaPlugin-console: aeb6015a9830edaaf8158a6b49f18189ebf38aa5
+  FirebaseAnalytics: 0d1b7d81d5021155be37702a94ba1ec16d45365d
+  FirebaseCore: a024587e43778508700af8c6b1209f7c4516ba02
+  FirebaseInstanceID: 2d0518b1378fe9d685ef40cbdd63d2fdc1125339
+  Google: 813c467362eabc11385f5a5cc9ad0cb651a58f4e
+  GoogleSignIn: d7ad83f13480e1f30453471d00d19b5293ac46af
+  GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
+  GTMOAuth2: 7fc9c10f5c745f4d9850419ea88889fe3baa6b7d
+  GTMSessionFetcher: 5c046c76a1f859bc9c187e918f18e4fc7bb57b5e
+  phonegap-ios-template: 959c4431097a71f55621f65aa1fe33573d09a4fc
+
+PODFILE CHECKSUM: e0e283b65e221bb99eda0ae2862b7e9bcea68cea
+
+COCOAPODS: 1.1.1
